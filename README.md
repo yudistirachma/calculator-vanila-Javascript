@@ -1,2 +1,2 @@
 # calculator-vanila-Javascript
-simle project make calculator using vanilla javascript
+simple project make calculator using vanilla javascript
